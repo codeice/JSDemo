@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2015-06-16 17:11:12
+ * @version $Id$
+ */
+.title {
+  width: 30px;
+}
+.head {
+  width: 100%；
+	height:62px;
+  line-height: 62px;
+  background-color: #D9EEF2;
+}
